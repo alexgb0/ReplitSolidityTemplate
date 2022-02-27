@@ -12,4 +12,8 @@ Linux/BSD:
 ## Usage
 Simply run `run.sh`. It will ask for __sudo__ permissions.
 
-Then modify the `contract.sol` file. You __MUST NOT__ change the name, or move it.
+Then modify the `contract.sol` file. 
+
+## Notes
+1. You __MUST NOT__ change the name or move it.
+2. If you are in WSL you __must__ have the files __inside WSL filesystem__.

@@ -4,9 +4,9 @@ Ported by [alexgb0](https://github.com/alexgb0)
 ## Requirements
 ```yaml
 Windows:
-	- WSL >= 1
+    - WSL >= 1
 Linux/BSD:
-	- nix-pkg
+    - nix-pkg
 ```
 
 ## Usage
